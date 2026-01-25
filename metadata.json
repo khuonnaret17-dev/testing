@@ -1,0 +1,8 @@
+{
+  "name": "SocialMate AI - Multi-Platform Manager",
+  "description": "An all-in-one social media management dashboard with AI content generation, multi-platform scheduling, and advanced analytics for Facebook, Instagram, TikTok, and Telegram.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
